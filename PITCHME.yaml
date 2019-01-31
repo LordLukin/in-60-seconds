@@ -5,7 +5,7 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : night
 
 #
 # Theme-Override Setting
@@ -24,19 +24,19 @@ logo-postion : top-left
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center
+layout : center-right
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Trying GitPitch - Level up before you start"
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
+published : false
 
 #
 # Twitter Card Settings [Pro Only]
